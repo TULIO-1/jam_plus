@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"E:/Almacen de LoL/Unreal Engine/MyBlueprints/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/Almacen de LoL/Unreal Engine/MyBlueprints/Content/W_InteractionPromp.uasset",
+				"E:/Almacen de LoL/Unreal Engine/MyBlueprints/Content/BP_Interact.uasset",
+				"E:/Almacen de LoL/Unreal Engine/MyBlueprints/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/02/DAT2V4W2EFO9VMNDZE38R7.uasset",
+				"E:/Almacen de LoL/Unreal Engine/MyBlueprints/Content/BP_DestroyableObject.uasset",
+				"E:/Almacen de LoL/Unreal Engine/MyBlueprints/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/AQ/8N35KJ7D76030RN6UDG69M.uasset",
+				"E:/Almacen de LoL/Unreal Engine/MyBlueprints/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/QH/U4W7TSD64QWOGUVLTV6WNR.uasset",
+				"E:/Almacen de LoL/Unreal Engine/MyBlueprints/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/HA/7IOYPBESGELY25CQ958HKY.uasset"
+			]
+		}
+	]
+}
